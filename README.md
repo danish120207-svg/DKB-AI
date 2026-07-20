@@ -9,3 +9,9 @@ Nama : Danish
 Kursus : DKB323
 
 Objektif : Mempelajari repository, commit, branch dan pull request
+
+## Kemahiran
+
+- Python Asas
+- Github asas
+- Computer Vision
